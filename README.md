@@ -1,2 +1,2 @@
-# steam_icons
-list of steam icons for the workshop; designfiles included
+# TTT addon graphics
+Icons and texturestextures for TTT2, TTTC and other small addons by Alf21

@@ -1,2 +1,2 @@
 # TTT addon graphics
-Icons and texturestextures for TTT2, TTTC and other small addons by Alf21
+Icons and textures for TTT2, TTTC and other small addons by Alf21

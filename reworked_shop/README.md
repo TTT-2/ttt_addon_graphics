@@ -17,8 +17,8 @@ It's pretty simple.
 1. Save the result as a png so that transparency isn't lost.
 2. Perks are red, weapons are blue. Don't use any other colors!
 3. The icon on should follow one of these two styles:
-   1. an image with a small drop shadow
-   2. by using [this layer style](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/styles/) on a single colored icon
+   1. an image with a small drop shadow by using the ["image_icon" style](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/styles/)
+   2. by using the ["flat icon" style](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/styles/) on a single colored icon
 
 ## Addon List
 

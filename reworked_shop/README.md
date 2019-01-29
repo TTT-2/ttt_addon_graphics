@@ -27,14 +27,14 @@ Please sort by name.
 State | Name & URL | Author | Copyright Notice | Changelog | Implemented
 ---|---|---|---|---|---
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_amaterasou.png?raw=true) | [Ametarasou](https://steamcommunity.com/sharedfiles/filedetails/?id=1188011508) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;
-TODO | [Baby Launcher](https://steamcommunity.com/sharedfiles/filedetails/?id=319562947) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_babylauncher.png?raw=true) | [Baby Launcher](https://steamcommunity.com/sharedfiles/filedetails/?id=319562947) | PetaPaka123 | used pictures from workshop | created a new icon | &#x1F34E;
 TODO | [Banana Bomb](https://steamcommunity.com/sharedfiles/filedetails/?id=922342968) | - | - | - | &#x1F539;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_boomerang.png?raw=true) | [Boomerang](https://steamcommunity.com/sharedfiles/filedetails/?id=639521512) | TimGoll | used ingame model as base | changed to correct background color; adjusted the model color | &#x1F34E;
 TODO | [Bloody Knife](https://steamcommunity.com/sharedfiles/filedetails/?id=380972923) | - | - | - | &#x1F539;
-TODO | [Chainsaw](https://steamcommunity.com/sharedfiles/filedetails/?id=423895566) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_chainsaw.png?raw=true) | [Chainsaw](https://steamcommunity.com/sharedfiles/filedetails/?id=423895566) | PetaPaka123 | used pictures from workshop | created a new icon | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_explosive_corpse.png?raw=true) | [Explosive Corpse](https://steamcommunity.com/sharedfiles/filedetails/?id=359372950) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_faketest.png?raw=true) | [Faketest](https://steamcommunity.com/sharedfiles/filedetails/?id=617179823) | TimGoll | used original icon as base | changed to correct background color | &#x1F34F; [in original addon]
-TODO | [Fassinator](https://steamcommunity.com/sharedfiles/filedetails/?id=633134671) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_fassinator.png?raw=true) | [Fassinator](https://steamcommunity.com/sharedfiles/filedetails/?id=633134671) | PetaPaka123 | used pictures from workshop | created a new icon | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_homerun_bat.png?raw=true) | [Homerun Bat](https://steamcommunity.com/sharedfiles/filedetails/?id=648957314) | TimGoll | used original icon as base | changed to correct background color | &#x1F34F; [in original addon]
 TODO | [Improved Shieldgun](https://steamcommunity.com/sharedfiles/filedetails/?id=264087175) | - | - | - | &#x1F539;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_martyrdom.png?raw=true) | [Martyrdom](https://steamcommunity.com/sharedfiles/filedetails/?id=1630269736) | TimGoll | used original icon as base | changed to correct background color; new icon + hud icon | &#x1F34F; [in original addon]

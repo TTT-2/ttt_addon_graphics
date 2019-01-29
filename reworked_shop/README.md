@@ -1,0 +1,43 @@
+# TTT Reworked Shop Icons
+
+## Motivation
+Eversince I started playing TTT one thing annoyed me. The inconsistency. This project aims to rework most of the shop icons to make the fit to a certain style. We'll stick to the default TTT style for obvious reasons.
+
+## Contributing - Getting Started
+Download the template file from [here](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/templates/). An example is included. If you want to contribute to this project without knowing how to use photoshop, you can help to extend the list at the end of this file.
+Please open a pullrequest if you want to contribute new icons or an updated list. Since photoshopfiles and other binary files can't be merged upload your designdfiles into [/reworked_shop/finished/userdata/](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/userdata/) named `YOUR_USERNAME.psd`.
+By contributing to this project you confirm that you **do not use any copyrighted material** and that you loose any claims for your work.
+
+## Design Guidelines
+It's pretty simple.
+1. Save the result as a png so that transparency isn't lost.
+2. Perks are red, weapons are blue. Don't use any other colors!
+3. The icon on should follow one of these two styles:
+   1. an image with a small drop shadow
+   2. by using [this layer style](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/styles/) on a single colored icon
+
+## Addon List
+Please sort by name.
+State | Name & URL | Author | Copyright Notice | Changelog | Implemented
+---|---|---|---|---|---
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_amaterasou.png?raw=true) | [Ametarasou](https://steamcommunity.com/sharedfiles/filedetails/?id=1188011508) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;
+TODO | [Baby Launcher](https://steamcommunity.com/sharedfiles/filedetails/?id=319562947) | - | - | - | &#x1F539;
+TODO | [Banana Bomb](https://steamcommunity.com/sharedfiles/filedetails/?id=922342968) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_boomerang.png?raw=true) | [Boomerang](https://steamcommunity.com/sharedfiles/filedetails/?id=639521512) | TimGoll | used ingame model as base | changed to correct background color; adjusted the model color | &#x1F34E;
+TODO | [Bloody Knife](https://steamcommunity.com/sharedfiles/filedetails/?id=380972923) | - | - | - | &#x1F539;
+TODO | [Chainsaw](https://steamcommunity.com/sharedfiles/filedetails/?id=423895566) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_explosive_corpse.png?raw=true) | [Explosive Corpse](https://steamcommunity.com/sharedfiles/filedetails/?id=359372950) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_faketest.png?raw=true) | [Faketest](https://steamcommunity.com/sharedfiles/filedetails/?id=617179823) | TimGoll | used original icon as base | changed to correct background color | &#x1F34F; [in original addon]
+TODO | [Fassinator](https://steamcommunity.com/sharedfiles/filedetails/?id=633134671) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_homerun_bat.png?raw=true) | [Homerun Bat](https://steamcommunity.com/sharedfiles/filedetails/?id=648957314) | TimGoll | used original icon as base | changed to correct background color | &#x1F34F; [in original addon]
+TODO | [Improved Shieldgun](https://steamcommunity.com/sharedfiles/filedetails/?id=264087175) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_martyrdom.png?raw=true) | [Martyrdom](https://steamcommunity.com/sharedfiles/filedetails/?id=1630269736) | TimGoll | used original icon as base | changed to correct background color; new icon + hud icon | &#x1F34F; [in original addon]
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_mirrorfate.png?raw=true) | [Mirror Fate](https://steamcommunity.com/sharedfiles/filedetails/?id=611873052) | TimGoll | based on icons by Thays Malcher, Rflor from the NounProject [CC] | changed to correct background color; new icon | &#x1F34F; [in original addon]
+TODO | [Molotow Cocktail](https://steamcommunity.com/sharedfiles/filedetails/?id=276959806) | - | - | - | &#x1F539;
+TODO | [Orbital Friendship Beam](https://steamcommunity.com/sharedfiles/filedetails/?id=323013982) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_random_damage.png?raw=true) | [Random Damage](https://steamcommunity.com/sharedfiles/filedetails/?id=609729626) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_silentstep.png?raw=true) | [Silent Step](https://steamcommunity.com/sharedfiles/filedetails/?id=1137482209) | TimGoll | based on icons by Bieutuong Chin from the NounProject [CC] | changed to correct background color; new icon + hud icon | &#x1F34F; [in original addon]
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_sparta_kick.png?raw=true) | [Spartan Kick](https://steamcommunity.com/sharedfiles/filedetails/?id=922510848) | TimGoll | used Assassins Creed Artwork [Critical] | changed to correct background color; created new icon | &#x1F34E;
+TODO | [Super Discombulator](https://steamcommunity.com/sharedfiles/filedetails/?id=481692085) | - | - | - | &#x1F539;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_thomas.png?raw=true) | [Thomas](https://steamcommunity.com/sharedfiles/filedetails/?id=1584780982) | TimGoll | used orifinal icon as base | changed to correct background color | &#x1F34F; [in original addon]
+TODO | [T-Suitcase](https://steamcommunity.com/sharedfiles/filedetails/?id=896084374) | - | - | - | &#x1F539;

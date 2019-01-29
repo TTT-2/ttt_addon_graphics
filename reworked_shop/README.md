@@ -1,15 +1,19 @@
 # TTT Reworked Shop Icons
 
 ## Motivation
+
 Eversince I started playing TTT one thing annoyed me. The inconsistency. This project aims to rework most of the shop icons to make the fit to a certain style. We'll stick to the default TTT style for obvious reasons.
 
 ## Contributing - Getting Started
+
 Download the template file from [here](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/templates/). An example is included. If you want to contribute to this project without knowing how to use photoshop, you can help to extend the list at the end of this file.
 Please open a pullrequest if you want to contribute new icons or an updated list. Since photoshopfiles and other binary files can't be merged upload your designdfiles into [/reworked_shop/finished/userdata/](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/userdata/) named `YOUR_USERNAME.psd`.
 By contributing to this project you confirm that you **do not use any copyrighted material** and that you loose any claims for your work.
 
 ## Design Guidelines
+
 It's pretty simple.
+
 1. Save the result as a png so that transparency isn't lost.
 2. Perks are red, weapons are blue. Don't use any other colors!
 3. The icon on should follow one of these two styles:
@@ -17,7 +21,9 @@ It's pretty simple.
    2. by using [this layer style](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/styles/) on a single colored icon
 
 ## Addon List
+
 Please sort by name.
+
 State | Name & URL | Author | Copyright Notice | Changelog | Implemented
 ---|---|---|---|---|---
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_amaterasou.png?raw=true) | [Ametarasou](https://steamcommunity.com/sharedfiles/filedetails/?id=1188011508) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;

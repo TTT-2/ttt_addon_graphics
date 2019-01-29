@@ -6,8 +6,8 @@ Eversince I started playing TTT one thing annoyed me. The inconsistency. This pr
 
 ## Contributing - Getting Started
 
-Download the template file from [here](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/templates/). An example is included. If you want to contribute to this project without knowing how to use photoshop, you can help to extend the list at the end of this file.
-Please open a pullrequest if you want to contribute new icons or an updated list. Since photoshopfiles and other binary files can't be merged upload your designdfiles into [/reworked_shop/finished/userdata/](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/userdata/) named `YOUR_USERNAME.psd`.
+Download the template file from [here](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/templates/). An example is included. If you want to contribute to this project without knowing how to use photoshop, you can help to extend the list at the end of this file.
+Please open a pullrequest if you want to contribute new icons or an updated list. Since photoshopfiles and other binary files can't be merged upload your designdfiles into [/reworked_shop/userdata/](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/userdata/) named `YOUR_USERNAME.psd`.
 By contributing to this project you confirm that you **do not use any copyrighted material** and that you loose any claims for your work.
 
 ## Design Guidelines
@@ -18,7 +18,7 @@ It's pretty simple.
 2. Perks are red, weapons are blue. Don't use any other colors!
 3. The icon on should follow one of these two styles:
    1. an image with a small drop shadow
-   2. by using [this layer style](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/finished/styles/) on a single colored icon
+   2. by using [this layer style](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/styles/) on a single colored icon
 
 ## Addon List
 

@@ -7,7 +7,7 @@ Eversince I started playing TTT one thing annoyed me. The inconsistency. This pr
 ## Contributing - Getting Started
 
 Download the template file from [here](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/templates/). An example is included. If you want to contribute to this project without knowing how to use photoshop, you can help to extend the list at the end of this file.
-Please open a pullrequest if you want to contribute new icons or an updated list. Since photoshopfiles and other binary files can't be merged upload your designdfiles into [/reworked_shop/userdata/](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/userdata/) named `YOUR_USERNAME.psd`.
+Please open a pullrequest if you want to contribute new icons or an updated list. Since photoshopfiles and other binary files can't be merged, upload your design files into [/reworked_shop/userdata/](https://github.com/TimGoll/ttt_addon_graphics/tree/master/reworked_shop/userdata/) named `YOUR_USERNAME.psd`.<br>
 By contributing to this project you confirm that you **do not use any copyrighted material** and that you loose any claims for your work.
 
 ## Design Guidelines

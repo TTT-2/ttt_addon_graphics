@@ -29,7 +29,7 @@ State | Name & URL | Author | Copyright Notice | Changelog | Implemented
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_amaterasou.png?raw=true) | [Ametarasou](https://steamcommunity.com/sharedfiles/filedetails/?id=1188011508) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_babylauncher.png?raw=true) | [Baby Launcher](https://steamcommunity.com/sharedfiles/filedetails/?id=319562947) | PetaPaka123 | used pictures from workshop | created a new icon | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_bananabomb.png?raw=true) | [Banana Bomb](https://steamcommunity.com/sharedfiles/filedetails/?id=922342968) | PetaPaka123 | used original icon as base | added shader | &#x1F34E;
-![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_boomerang.png?raw=true) | [Boomerang](https://steamcommunity.com/sharedfiles/filedetails/?id=639521512) | TimGoll | used ingame model as base | changed to correct background color; adjusted the model color | &#x1F34E;
+![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_boomerang.png?raw=true) | [Boomerang](https://steamcommunity.com/sharedfiles/filedetails/?id=639521512) | TimGoll | used ingame model as base | changed to correct background color; adjusted the model color | &#x1F34F; [in original addon]
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_bloodyknife.png?raw=true) | [Bloody Knife](https://steamcommunity.com/sharedfiles/filedetails/?id=380972923) | PetaPaka123 | used pictures from workshop | used pictures from workshop | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_chainsaw.png?raw=true) | [Chainsaw](https://steamcommunity.com/sharedfiles/filedetails/?id=423895566) | PetaPaka123 | used pictures from workshop | created a new icon | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_explosive_corpse.png?raw=true) | [Explosive Corpse](https://steamcommunity.com/sharedfiles/filedetails/?id=359372950) | TimGoll | used original icon as base | changed to correct background color | &#x1F34E;
@@ -47,6 +47,11 @@ State | Name & URL | Author | Copyright Notice | Changelog | Implemented
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_superdiscombulator.png?raw=true) | [Super Discombulator](https://steamcommunity.com/sharedfiles/filedetails/?id=481692085) | PetaPaka123 | used royalty free pictures | new icon | &#x1F34E;
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_thomas.png?raw=true) | [Thomas](https://steamcommunity.com/sharedfiles/filedetails/?id=1584780982) | TimGoll | used original icon as base | changed to correct background color | &#x1F34F; [in original addon]
 ![Finished](https://github.com/TimGoll/ttt_addon_graphics/blob/master/reworked_shop/finished/icon_t-suitcase.png?raw=true) | [T-Suitcase](https://steamcommunity.com/sharedfiles/filedetails/?id=896084374) | PetaPaka123 | used original hl2 icon | new icon | &#x1F34E;
+
+Suggested - to verify:
+
+State | Name & URL | Author | Copyright Notice | Changelog | Implemented
+---|---|---|---|---|---
 ![Suggested](https://github.com/TimGoll/ttt_addon_graphics/shop_icons/icons.ps ) | [Zombie Perks](https://steamcommunity.com/sharedfiles/filedetails/?id=842302491) | Sral23 | Unknown | none | &#x1F34E;
 ![Suggested](https://github.com/TimGoll/ttt_addon_graphics/shop_icons/icons.ps ) | [Second Chance](https://steamcommunity.com/sharedfiles/filedetails/?id=672173225) | Sral23 | Unknown| none | &#x1F34E;
 ![Suggested](https://github.com/TimGoll/ttt_addon_graphics/shop_icons/icons.ps ) | [SATM](https://steamcommunity.com/sharedfiles/filedetails/?id=671603913) | Sral23 | Unknown | new icon | &#x1F34E;

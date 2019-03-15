@@ -1,0 +1,162 @@
+%!Adobe-FontList 1.13
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedoraOutline
+FamilyName:SF Fedora Outline
+StyleName:Regular
+FullName:SF Fedora Outline
+MenuName:SF Fedora Outline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora Outline.ttf
+DataFormat:sfntData
+FileLength:55824
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedoraShadow
+FamilyName:SF Fedora Shadow
+StyleName:Regular
+FullName:SF Fedora Shadow
+MenuName:SF Fedora Shadow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora Shadow.ttf
+DataFormat:sfntData
+FileLength:62096
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedoraSymbols
+FamilyName:SF Fedora Symbols
+StyleName:Regular
+FullName:SF Fedora Symbols
+MenuName:SF Fedora Symbols
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora Symbols.ttf
+DataFormat:sfntData
+FileLength:31640
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedoraTitlesItalic
+FamilyName:SF Fedora Titles
+StyleName:Italic
+FullName:SF Fedora Titles Italic
+MenuName:SF Fedora Titles
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora Titles Italic.ttf
+DataFormat:sfntData
+FileLength:29208
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedoraTitlesShadowItalic
+FamilyName:SF Fedora Titles Shadow
+StyleName:Italic
+FullName:SF Fedora Titles Shadow Italic
+MenuName:SF Fedora Titles Shadow
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora Titles Shadow Italic.ttf
+DataFormat:sfntData
+FileLength:55388
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedoraTitlesShadow
+FamilyName:SF Fedora Titles Shadow
+StyleName:Regular
+FullName:SF Fedora Titles Shadow
+MenuName:SF Fedora Titles Shadow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora Titles Shadow.ttf
+DataFormat:sfntData
+FileLength:56268
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedoraTitles
+FamilyName:SF Fedora Titles
+StyleName:Regular
+FullName:SF Fedora Titles
+MenuName:SF Fedora Titles
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora Titles.ttf
+DataFormat:sfntData
+FileLength:29800
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFFedora
+FamilyName:SF Fedora
+StyleName:Regular
+FullName:SF Fedora
+MenuName:SF Fedora
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\SF Fedora.ttf
+DataFormat:sfntData
+FileLength:31128
+FileModTime:1552667785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\__ git\steam_icons\LOGO\Font\source.txt
+FileModTime:1552667785
+%EndFont
+
